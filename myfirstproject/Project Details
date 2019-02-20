@@ -1,0 +1,9 @@
+// description of the repository.
+
+it is a project developed based on django framework.
+
+Main focus of the project to create a job portal which helps job seeker.
+
+Constraints:
+for recruiter, register the account with gmail id with the password (same as given in the gmail account).
+as for now, in order to make it work, enable "use less secure apps" options in recruiter's gmail. 
